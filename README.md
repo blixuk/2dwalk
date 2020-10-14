@@ -1,3 +1,3 @@
 # 2D Walk
 
-![alt text](https://github.com/blixuk/2dwalk/bo1suc33oxs51.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/blixuk/2dwalk/main/bo1suc33oxs51.png "Logo Title Text 1")
